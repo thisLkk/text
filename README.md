@@ -120,11 +120,10 @@
     C -->|3| F[F]
 ```
 `例子：`<br>
-```
+
 graph TD
     A[asd] -->B(asd)
     B -->C{asd}
     C -->|asd| D[asd]
     C -->|asd| E[sd]
     C -->|asd| F[asd]
-```
